@@ -16,9 +16,9 @@ body {
       margin-left: 21px;
   }
   img {
-    width: 800px;
-    height: 500px;
-    object-fit: contain;
+    width: 1000px;
+    height: 800px;
+    object-fit: scale-down;
   }
 
   a {
