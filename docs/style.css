@@ -1,0 +1,22 @@
+body {
+    background-color: lavenderblush;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 21px;
+  }
+
+  h2 {
+    color: forestgreen;
+    margin-left: 21px;
+  }
+  p {
+      color: #8ea082;
+      margin-left: 21px;
+  }
+
+  .bild1 {
+    width: auto;
+    height: auto;
+  }
