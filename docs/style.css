@@ -1,9 +1,9 @@
 body {
-    background-color: lavenderblush;
+    background-color: whitesmoke;
   }
   
   h1 {
-    color: navy;
+    color: rgb(128, 126, 46);
     margin-left: 21px;
   }
 
@@ -15,8 +15,18 @@ body {
       color: #8ea082;
       margin-left: 21px;
   }
+  img {
+    width: 800px;
+    height: 500px;
+    object-fit: contain;
+  }
 
-  .bild1 {
-    width: auto;
-    height: auto;
+  a {
+    margin-left: 21px;
+    color: turquoise;
+  }
+
+  b {
+    margin-left: 21px;
+    color: violet;
   }
