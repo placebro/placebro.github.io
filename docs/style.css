@@ -13,20 +13,31 @@ body {
   }
   p {
       color: #8ea082;
-      margin-left: 21px;
+      margin-left: 84px;
+      margin-top: 21px;
   }
   img {
-    width: 1000px;
-    height: 800px;
+    max-width: 1000px;
+    margin-top: 50px;
     object-fit: scale-down;
+    display: block;
+   
   }
 
   a {
     margin-left: 21px;
-    color: turquoise;
+    color: brown;
+    font-size: 50;
   }
 
   b {
     margin-left: 21px;
     color: violet;
   }
+
+  }
+  a.home {
+    color:black;
+
+  }
+ 
