@@ -1,0 +1,70 @@
+body{
+  background-image: url("resources/index/colors4_2.gif");
+  
+  object-fit: cover;
+  padding:0;
+  margin:0;
+}
+ 
+
+  div.group1 {
+margin-top: 160px;
+
+}
+div.places {
+  margin-top: 4px;
+  margin-left: 84px;
+}
+  h2 {
+    color: forestgreen;
+    margin-left: 21px;
+  }
+  p {
+      color: #8ea082;
+      margin-left: 84px;
+      margin-top: 0px;
+  }
+  div.column1 {
+    max-width: 1000px;
+    margin-top: 50px;
+    object-fit: scale-down;
+    display: block;
+   
+  }
+
+  a {
+    
+    
+    color: rgb(48, 54, 13);
+    font-size: 30pt;
+   
+  }
+
+  b {
+    margin-left: 21px;
+    color: violet;
+  }
+
+  a.home {
+    color:black;
+
+  }
+
+
+
+a.red {
+  color:#fe0f0f;
+}
+a.green {
+  color:#0ac509;
+}
+a.blue {
+  color:#451df2;
+}
+ div.pages {
+  font-size: 30pt;
+  color:#b7bf87;
+  font-family: monospace;
+  margin-left: 84px;
+  margin-top: 10px;
+}

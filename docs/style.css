@@ -1,12 +1,19 @@
 body{
-  background-image: url("resources/index/colors4_2.gif");
-  background-size: cover;
-  height: 20vh;
+  background-image: url("resources/index/1.gif");
+  
+  object-fit: cover;
   padding:0;
   margin:0;
 }
  
 
+  div.group1 {
+margin-top: 160px;
+
+}
+div.places {
+  margin-top: 4px;
+  margin-left: 84px;
 }
   h2 {
     color: forestgreen;
@@ -15,9 +22,9 @@ body{
   p {
       color: #8ea082;
       margin-left: 84px;
-      margin-top: 21px;
+      margin-top: 0px;
   }
-  img {
+  div.column1 {
     max-width: 1000px;
     margin-top: 50px;
     object-fit: scale-down;
@@ -26,7 +33,10 @@ body{
   }
 
   a {
+    
+    
     color: rgb(48, 54, 13);
+    font-size: 30pt;
    
   }
 
@@ -39,30 +49,25 @@ body{
     color:black;
 
   }
- div.places {
-   margin-left: 180px;
-   margin-top: 111px;
-   }
 
-a.exhib {
-  color:#0bc50a;
+
+
+a.red {
+    color:#898f65;
+    font-family: monospace;
 }
-a.maxmsp {
-  color:#270ff3;
+a.green {
+    color:#898f65;
+    font-family: monospace;
 }
-a.rec {
-  color:#fe0f0f;
-}
-a.walk {
-  color:#0ac509;
-}
-a.other {
-  color:#451df2;
+a.blue {
+    color:#898f65;
+    font-family: monospace;
 }
  div.pages {
   font-size: 30pt;
-  color:#b7bf87;
+  color:#898f65;
   font-family: monospace;
-  margin-left: 10px;
-  margin-top: 10x;
+  margin-left: 84px;
+  margin-top: 10px;
 }
