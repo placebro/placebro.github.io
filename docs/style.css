@@ -1,6 +1,13 @@
-body {
-    background-color: whitesmoke;
-  }
+body{
+  background-image: url("resources/index/colors2_1.gif");
+  background-size: cover;
+  
+  
+  
+  height: 100vh;
+  padding:0;
+  margin:0;
+}
   
   h1 {
     color: rgb(128, 126, 46);
