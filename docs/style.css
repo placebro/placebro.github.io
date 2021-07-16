@@ -1,19 +1,13 @@
 body{
-  background-image: url("resources/index/colors2_1.gif");
+  background-image: url("resources/index/colors4_2.gif");
   background-size: cover;
-  
-  
-  
-  height: 100vh;
+  height: 20vh;
   padding:0;
   margin:0;
 }
-  
-  h1 {
-    color: rgb(128, 126, 46);
-    margin-left: 21px;
-  }
+ 
 
+}
   h2 {
     color: forestgreen;
     margin-left: 21px;
@@ -32,8 +26,7 @@ body{
   }
 
   a {
-    margin-left: 21px;
-    color: brown;
+    color: rgb(48, 54, 13);
     font-size: 50;
   }
 
@@ -42,9 +35,34 @@ body{
     color: violet;
   }
 
-  }
   a.home {
     color:black;
 
   }
- 
+ div.places {
+   margin-left: 180px;
+   margin-top: 111px;
+   }
+
+a.exhib {
+  color:#0bc50a;
+}
+a.maxmsp {
+  color:#270ff3;
+}
+a.rec {
+  color:#fe0f0f;
+}
+a.walk {
+  color:#0ac509;
+}
+a.other {
+  color:#451df2;
+}
+ div.pages {
+  font-size: 30pt;
+  color:#b7bf87;
+  font-family: monospace;
+  margin-left: 10px;
+  margin-top: 10x;
+}
