@@ -23,9 +23,9 @@ div.places {
 div.column1 {
     max-width: 1000px;
     margin-top: 50px;
-    object-fit: scale-down;
-    display: block;
-   
+    object-fit: cover;
+    padding:200;
+    margin:200;
   }
 
   a {
