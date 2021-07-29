@@ -21,11 +21,11 @@ div.places {
       margin-top: 0px;
   }
 div.column1 {
-    max-width: 1000px;
+
     margin-top: 50px;
     object-fit: cover;
-    padding:200;
-    margin:200;
+    padding:5%;
+    margin:20%;
   }
 
   a {
