@@ -1,65 +1,54 @@
 body{
-  background-image: url("resources/index/colors_5_5.gif");
+  background-image: url("resources/index/indesign.png");
   
   object-fit: cover;
   padding:0;
   margin:0;
 }
- 
+div.column1
+{
+  width:60%;
+  height: auto;
+}
+div.all_pages {
+margin-top: 50px;
 
-div.group1 {
-margin-top: 160px;
 
 }
 div.places {
   margin-top: -14px;
   margin-left: 84px;
+  
 
-  p {
-      color: #8ea082;
-      margin-left: 84px;
-      margin-top: 0px;
-  }
-div.column1 {
-
-    margin-top: 50px;
-    object-fit: cover;
-    padding:5%;
-    margin:20%;
-  }
-
-  a {
+}
+a.hover
+{
+  color: rgb(154, 156, 138);
+  font-size: 15pt;
+}
+a {
     
     
-    color: rgb(48, 54, 13);
-    font-size: 30pt;
+    color: rgb(199, 199, 199);
+    font-size: 15pt;
+
    
   }
 
-  b {
+b {
     margin-left: 21px;
     color: violet;
   }
 
-  a.home {
+a.home {
     color:black;
 
   }
 
 
 
-a.red {
-    color:#898f65;
-    font-family: monospace;
-}
-a.green {
-    color:#898f65;
-    font-family: monospace;
-}
-a.blue {
-    color:#898f65;
-    font-family: monospace;
-}
+
+
  div.pages {
   font-size: 30pt;
   color:#898f65;
