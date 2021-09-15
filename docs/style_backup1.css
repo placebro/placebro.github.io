@@ -7,7 +7,7 @@ body{
 }
  
 
-  div.group1 {
+div.group1 {
 margin-top: 160px;
 
 }
@@ -15,16 +15,16 @@ div.places {
   margin-top: 4px;
   margin-left: 84px;
 }
-  h2 {
+H2 {
     color: forestgreen;
     margin-left: 21px;
   }
-  p {
+p {
       color: #8ea082;
       margin-left: 84px;
       margin-top: 0px;
   }
-  div.column1 {
+div.column1 {
     max-width: 1000px;
     margin-top: 50px;
     object-fit: scale-down;
