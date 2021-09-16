@@ -6,7 +6,9 @@ body{
   margin:0;
 }
 
-
+div.links {
+  padding-left: 50px;
+}
 h2{
   margin-left: 100px;
   margin-top: 50px;
