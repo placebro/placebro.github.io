@@ -1,34 +1,20 @@
+
 body{
-  background-image: url("resources/index/bg.png");
-  
-  object-fit: cover;
-  padding:0;
-  margin:0;
+  background-image: url("resources/bg.png");
+  object-fit:cover;
 }
 
-div.links {
-  padding-left: 50px;
-}
-h2{
-  margin-left: 100px;
-  margin-top: 50px;
-  color: black;
+img{
+height:80%;
+width:80%;
 }
 
-
-
-
-
-div.column1 {
-
-   
-    object-fit: cover;
-    padding: 10%;
-   
-  }
-
-
-a {
-    color: rgb(48, 54, 13);
+.column1{
+object-fit: cover;
+padding: 10%;
 }
 
+.column2{
+object-fit: cover;
+padding-left: 20%;
+}
